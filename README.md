@@ -1,1 +1,1 @@
-# medTech
+# Manchester MedTech code
